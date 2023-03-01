@@ -143,7 +143,7 @@ elseif has("terminal")
 endif
 
 " Theme setup
-hi clear
+" hi clear
 syntax reset
 let g:colors_name = "base16-irblack"
 
